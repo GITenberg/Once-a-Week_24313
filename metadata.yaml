@@ -1,0 +1,36 @@
+_repo: Once-a-Week_24313
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Milne, Alan Alexander
+    - Miln, Alen Aleksander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, English'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'Fiction'
+tableOfContents: The heir -- Winter sport -- A baker's dozen -- Getting married --
+  Home affairs -- Other people's houses -- Burlesques -- Merely players -- The men
+  who succeed.
+title: Once a Week
+url: http://www.gutenberg.org/ebooks/24313
